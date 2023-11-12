@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/victor/Área de trabalho/ALURA C#/EXERCICIO1/AULA1.csproj",
-      "projectName": "AULA1",
-      "projectPath": "/home/victor/Área de trabalho/ALURA C#/EXERCICIO1/AULA1.csproj",
+      "projectUniqueName": "/home/victor/Área de trabalho/Sorteio e advinhacao de numeros/EXERCICIO1.csproj",
+      "projectName": "EXERCICIO1",
+      "projectPath": "/home/victor/Área de trabalho/Sorteio e advinhacao de numeros/EXERCICIO1.csproj",
       "packagesPath": "/home/victor/.nuget/packages/",
-      "outputPath": "/home/victor/Área de trabalho/ALURA C#/EXERCICIO1/obj/",
+      "outputPath": "/home/victor/Área de trabalho/Sorteio e advinhacao de numeros/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/victor/.nuget/NuGet/NuGet.Config"
